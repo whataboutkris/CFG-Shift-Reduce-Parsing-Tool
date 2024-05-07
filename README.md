@@ -1,5 +1,5 @@
 # CPSC-323-CFG Reduce Parsing Tool 
-  This repository contains an implementation for a program that parses context-free grammar (CFG) using a parsing table. The CFG describes expressions over a set of terminals { id, +, *, ), ( } and ending with a dollar sign ($). The parsing table is a data structure that guides the parser on how to perform parsing actions based on the current state of the parsing process and the input symbols.
+  This repository contains an implementation for a program that parses context-free grammar (CFG) using a parsing table. The CFG describes expressions over a set of terminals { id, +, *, ), ( } and ending with a dollar sign ($). The parsing table is a data structure that guides the parser on how to perform parsing actions based on the current state of the parsing process and the input symbols. A more detailed description of the code is seen in the documentation file. 
 
 # How to Use:
 
